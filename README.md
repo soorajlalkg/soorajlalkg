@@ -38,7 +38,7 @@ JavaScript • TypeScript • PHP • SQL
 
 ### Backend
 
-Node.js • Express.js • Fastify • REST APIs • GraphQL • RabbitMQ • Microservices
+Node.js • Express.js • Fastify • REST APIs • GraphQL • RabbitMQ • Kafka • Microservices
 
 ### Frontend
 
@@ -46,7 +46,7 @@ React.js • HTML5 • CSS3 • jQuery
 
 ### Cloud & DevOps
 
-AWS • Azure • Docker • GitHub Actions • Jenkins • CI/CD
+AWS (EC2, S3, SES, SNS, SQS, RDS, Lambda, CloudWatch, ECR, ECS Fargate, IAM) • Azure (Azure Functions, Event Hubs, Service Bus, Storage Accounts) • Docker • Kubernetes (Basics) • GitHub Actions • Jenkins • CI/CD
 
 ### Databases
 
