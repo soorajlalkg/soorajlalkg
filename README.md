@@ -4,7 +4,7 @@
 
 📍 Thiruvananthapuram, Kerala, India
 📧 [soorajlalkg@gmail.com](mailto:soorajlalkg@gmail.com)
-💼 LinkedIn: linkedin.com/in/soorajlalkg
+💼 LinkedIn: [linkedin.com/in/soorajlalkg](https://linkedin.com/in/soorajlalkg)
 
 ---
 
@@ -156,7 +156,7 @@ MG University College of Engineering, Thodupuzha
 ## 🤝 Connect With Me
 
 📧 [soorajlalkg@gmail.com](mailto:soorajlalkg@gmail.com)
-💼 linkedin.com/in/soorajlalkg
+💼 [linkedin.com/in/soorajlalkg](https://linkedin.com/in/soorajlalkg)
 
 > "Building scalable systems, creating great user experiences, and continuously learning new technologies."
 
