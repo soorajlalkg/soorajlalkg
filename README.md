@@ -46,7 +46,7 @@ React.js • HTML5 • CSS3 • jQuery
 
 ### Cloud & DevOps
 
-AWS (EC2, S3, SES, SNS, SQS, RDS, Lambda, CloudWatch, ECR, ECS Fargate, IAM) • Azure (Azure Functions, Event Hubs, Service Bus, Storage Accounts) • Docker • Kubernetes (Basics) • GitHub Actions • Jenkins • CI/CD
+AWS (EC2, S3, SES, SNS, SQS, RDS, Lambda, API Gateway, CloudWatch, ECR, ECS Fargate, IAM) • Azure (Azure Functions, Event Hubs, Service Bus, Storage Accounts) • Docker • Kubernetes (Basics) • GitHub Actions • Jenkins • CI/CD
 
 ### Databases
 
